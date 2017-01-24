@@ -6,3 +6,6 @@
  * Time: 17:51
  */
 phpinfo();
+function somthing(){
+
+}
